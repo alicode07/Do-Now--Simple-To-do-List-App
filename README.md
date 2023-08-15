@@ -1,1 +1,2 @@
-# Do-Now--Simple-To-do-List-App
+# Do Now-Simple TodoList App
+# in this appliction we put the
