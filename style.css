@@ -58,7 +58,7 @@ main {
     color: black;
     background-color:grey !important ;
 }
-.logo
+a,.logo
 {
     display: block;
   margin-left: auto;
